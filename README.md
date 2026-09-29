@@ -2,7 +2,7 @@
 
 ### Platform Engineer | DevOps | Cloud Infrastructure
 
-Platform Engineer with 6+ years of experience in cloud infrastructure,
+Platform Engineer with 5+ years of experience in cloud infrastructure,
 Kubernetes, CI/CD automation, Infrastructure as Code, and platform engineering
 across AWS and Azure.
 
